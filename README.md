@@ -114,7 +114,7 @@ yarn/npm start
 ### Backend
 
 ***To get the Backend to set up the database you need to follow this link and download the repo and follow the instructions of the Backend README file
-[Here](https://github.com/HunterX-7/Hello-rails-back-end).***
+[Here](https://github.com/ONJoseph/hello-rails-back-end.git).***
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
